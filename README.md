@@ -29,7 +29,7 @@ You can customize the color of normal and with-error progress bar by adding a cs
 }
 ```
 
-Known Issues
+TODO
 ------------
 
-* Doesn't work smoothly with long callbacks.
+* Make it work smoothly with long callbacks.

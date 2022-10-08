@@ -24,6 +24,7 @@ import NProgress from "nprogress";
 
     const increment = () => {
         if (window.intercept === 0) {
+            changeColor(GOOD_COLOR);
             NProgress.start();
         } else {
             NProgress.inc(0.05);
