@@ -4,6 +4,8 @@ Dash NProgress
 A very simple port of [nprogress.js](https://github.com/rstacruz/nprogress) library for the Plotly Dash ecosystem.
 It adds a slim progress bar and a spinner to indicate loading state in a dash app based on the number of pending callbacks. The color of the progress bar changes if any callback fails.
 
+https://user-images.githubusercontent.com/91216500/194695704-d4459de3-7084-4285-9c37-738737e08fd9.mov
+
 Basic Usage
 ------------
 
