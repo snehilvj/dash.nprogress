@@ -1,0 +1,33 @@
+{
+    "name": "dash.nprogress",
+    "version": "0.1.0",
+    "description": "Loading indication in dash apps using nprogress.js library",
+    "scripts": {
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/snehilvj/dash-nprogress.git"
+    },
+    "keywords": [
+        "dash",
+        "plotly-dash",
+        "plotly",
+        "nprogress"
+    ],
+    "author": "Snehil Vijay <snehilvj@outlook.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/snehilvj/dash-nprogress/issues"
+    },
+    "homepage": "https://github.com/snehilvj/dash-nprogress#readme",
+    "dependencies": {
+        "nprogress": "^0.2.0"
+    },
+    "devDependencies": {
+        "css-loader": "^6.7.1",
+        "style-loader": "^3.3.1",
+        "webpack": "^5.74.0",
+        "webpack-cli": "^4.10.0"
+    }
+}
